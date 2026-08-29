@@ -1003,5 +1003,17 @@ footer{
 
     margin:4px 0;
   }
+body{
+  background:red !important;
+}
 
+h1{
+  color:yellow !important;
+  font-size:40px !important;
+}
+
+.brand{
+  color:lime !important;
+  font-size:10px !important;
+}
 }
